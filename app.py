@@ -26,4 +26,3 @@ if text:
         st.write('answer: {}'.format(""))
         st.write('title: {}'.format(""))
         st.write('paragraph: {}'.format("")
-    st.write("")
