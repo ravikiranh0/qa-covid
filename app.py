@@ -23,7 +23,7 @@ if text:
     with st.spinner( 'Searching for answers.....'):
         time.sleep(15)
         st.balloons()
-        st.write('answer: {}'.format("")
-        st.write('title: {}'.format("")
+        st.write('answer: {}'.format(""))
+        st.write('title: {}'.format(""))
         st.write('paragraph: {}'.format("")
     st.write("")
